@@ -1,5 +1,5 @@
 # Ultimate Planning Poker cards
-This repo contains a set of [planning poker](https://en.wikipedia.org/wiki/Planning_poker) card SVG images for general use (within the bounds of the [GPLv3 license](LICENSE)), derived from the **Ulimate Planning Poker** deck. The differences with the physical deck, as seen on [Kickstarter](kickstarter.com/projects/michieldewit/scrum-planning-poker-deck-for-8-developers), are:
+This repo contains a set of [planning poker](https://en.wikipedia.org/wiki/Planning_poker) card SVG images for general use (within the bounds of the [GPLv3 license](LICENSE)), derived from the [Ulimate Planning Poker](https://ultimateplanningpoker.com) deck. The differences with the physical deck, as seen on [Kickstarter](kickstarter.com/projects/michieldewit/scrum-planning-poker-deck-for-8-developers), are:
 -  The cards contain no quotes
 - The cards contain no random numbers
 - The cards contain no playing card symbols
